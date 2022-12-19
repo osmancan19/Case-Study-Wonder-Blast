@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: b0cac4cd31844c0b8ff8c4e9861e9366
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GreenCubeSprite: {fileID: 21300000, guid: 0b721a1b15ffd4a1eb654d6152d27ad2, type: 3}
+  - GreenCubeBombHintSprite: {fileID: 21300000, guid: 3efa1847add28430dbc79043095ee5c6,
+      type: 3}
+  - GreenCubeOrb: {fileID: 21300000, guid: 6b50b828a8541a24a91ad76de4e38d04, type: 3}
+  - GreenCubeRocket: {fileID: 21300000, guid: 0413c1a2bb2551b42aa892d0de418cd2, type: 3}
+  - YellowCubeSprite: {fileID: 21300000, guid: 13ccc1d493d57401b80125c8373b5258, type: 3}
+  - YellowCubeBombHintSprite: {fileID: 21300000, guid: f06fb65006eda42468ba9f5774302099,
+      type: 3}
+  - YellowCubeOrb: {fileID: 21300000, guid: fb411fa95da24444bba64a86a94bea77, type: 3}
+  - YellowCubeRocket: {fileID: 21300000, guid: 07b0657378a3f324eabaf5f98b764ab8, type: 3}
+  - BlueCubeSprite: {fileID: 21300000, guid: f7c15f06c5fdb47408d0e48028756476, type: 3}
+  - BlueCubeBombHintSprite: {fileID: 21300000, guid: edac966d9e9f24a3996f949935aebaa0,
+      type: 3}
+  - BlueCubeOrb: {fileID: 21300000, guid: f37d461b4faeb7f46bb5648f38576fd8, type: 3}
+  - BlueCubeRocket: {fileID: 21300000, guid: 19127b80acf433c4e9822fa07ac21f85, type: 3}
+  - RedCubeSprite: {fileID: 21300000, guid: 1b2f0de131ec74bd4a243b05e3e393e3, type: 3}
+  - RedCubeBombHintSprite: {fileID: 21300000, guid: 37619d9e764f04a8aa5f7b46762c52ff,
+      type: 3}
+  - RedCubeOrb: {fileID: 21300000, guid: 66d3bbbaefaa0ad48b1c1e515a8318b0, type: 3}
+  - RedCubeRocket: {fileID: 21300000, guid: 5941034a58cc43b4da3473ef7653ba26, type: 3}
+  - PinkCubeSprite: {fileID: 21300000, guid: d6e10357a162f0748b7892fa2f9fed59, type: 3}
+  - PinkCubeBombHintSprite: {fileID: 21300000, guid: 6cd2ae0d47d29fc43984bea7363e7c7f,
+      type: 3}
+  - PinkCubeOrb: {fileID: 21300000, guid: ac1d44680f949f445a973d9372c63a90, type: 3}
+  - PinkCubeRocket: {fileID: 21300000, guid: 4d2694be579343248a80bcbbef5bae5a, type: 3}
+  - PurpleCubeSprite: {fileID: 21300000, guid: 60f0aac28b5a6ba44993f47685238717, type: 3}
+  - PurpleCubeBombHintSprite: {fileID: 21300000, guid: 28c132a887ca229499a074a7763f4b78,
+      type: 3}
+  - PurpleCubeOrb: {fileID: 21300000, guid: 880fe7fb46bdfd144a52c175e4193248, type: 3}
+  - PurpleCubeRocket: {fileID: 21300000, guid: 8484855a44352bb478fed42dca5a2b0c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
